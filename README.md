@@ -1,8 +1,4 @@
 # Single Page CV
 
-This repository contains my solution for the **Single Page CV** project from roadmap.sh.
-
-🔗 **Project Page URL:**  
+Project URL:
 https://rizalkubro.github.io/Single-Page-CV/
-
-This project is built using only HTML as instructed.
