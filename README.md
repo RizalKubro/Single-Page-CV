@@ -1,4 +1,4 @@
 Single Page CV
 
 Project URL:
-https://rizalkubro.github.io/Single-Page-CV/
+[https://rizalkubro.github.io/Single-Page-CV/](https://roadmap.sh/projects/single-page-cv)
