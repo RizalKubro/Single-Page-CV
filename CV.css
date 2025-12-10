@@ -1,0 +1,55 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    color: #333;
+}
+
+.Container{
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    border: 3px solid #ccc;
+}
+
+.Top-line{
+    width: 500px;
+    height: 3px;
+    background-color: #333;
+    margin: 0;
+}
+
+h1{
+    font-size: 32px;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.Myrole{
+    margin-top: 8px;
+    font-weight: bold;
+    color: green;
+}
+
+h2{
+    margin-top: 35px;
+    margin-bottom: 8px;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+p{
+    line-height: 0.5;
+}
+
+ul{
+    margin-top: 5px;
+}
+
+.Compay{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Date{
+    font-size: 14px;
+}
